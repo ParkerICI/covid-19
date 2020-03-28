@@ -15,8 +15,8 @@ We have provided a summmary and analysis of these data [here](/assets/SARS-CoV2_
 
 ## Link
 Complete data can be found here: 
-```gs://pici-covid19-data-resources/mhci/peptide_predictions
-```
+`gs://pici-covid19-data-resources/mhci/peptide_predictions`
+
 ## Authors
 Katie M. Campbell, Gabriela M. Steiner, Daniel K. Wells, Antoni Ribas, Anusha Kalbasi
 
