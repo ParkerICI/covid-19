@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predicted MHC Class I Presentation of the SARS-CoV-2 Peptidome
+title: Prediction of SARS-CoV-2 epitopes across 9360 HLA class I alleles
 parent: Data Sets
 nav_order: 1
 ---
