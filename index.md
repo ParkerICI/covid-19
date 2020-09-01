@@ -9,4 +9,5 @@ title: Overview
 
 ## PICI Data Resources on COVID-19
 
-SARS-CoV-2 (COVID-19) is an ongoing worldwide viral pandemic. So far more than 500,000 cases have been confirmed  and more than  25,000 people have died. To help accelerate research in this area, the Parker Institute and affiliated researchers across our sites are opening up existing and new data sets related to COVID-19 with the hope that they will help researchers across the world. For questions or support please email [data@parkerici.org](mailto:data@parkerici.org)
+SARS-CoV-2 (COVID-19) is an ongoing worldwide viral pandemic. To help accelerate research in this area, the Parker Institute for Cancer Immunotherapy and our affiliated researchers are opening up existing and new datasets related to COVID-19. Our goal with this aligns with our overall goals at PICI: to make data accessible to the research community around the world so we can collaborate and move research forward more quickly. For questions or support, please email [data@parkerici.org](mailto:data@parkerici.org). To learn more about the PICI, visit [parkerici.org](parkerici.org).
+
